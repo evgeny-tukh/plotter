@@ -1,0 +1,29 @@
+body
+{
+    padding: 0px;
+}
+
+.pane
+{
+    position: absolute;
+    top: 0px;
+    height: 100%;
+    border-style: none;
+    border-width: 0px;
+    margin: 0px;
+    padding: 0px;
+}
+
+.map
+{
+    left: 0px;
+    right: 400px;
+    background-color: yellow;
+}
+
+.points
+{
+    width: 48px;
+    right: 0px;
+    background-color: green;
+}
